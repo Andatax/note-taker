@@ -1,1 +1,21 @@
-# note-taker
+# Note Taker 📝
+
+| _Category_           | _Details_                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| _Description_        | Note Taker is a web application designed to assist small business owners in organizing their thoughts and keeping track of tasks. Whether you need to jot down ideas, create to-do lists, or save important information, Note Taker provides a simple and effective platform to manage your notes.                                                                                                                                         |
+| _Features 🌟_        | - _User-friendly Interface:_ An intuitive interface that allows users to easily navigate and manage their notes. <br> - _Create and Save Notes:_ Enter new note titles and text, and save them for future reference. <br> - _List of Existing Notes:_ View a list of existing notes in the left-hand column for quick access. <br> - _Clear Form Functionality:_ Clear the note entry form with the "Clear Form" button for a fresh start. |
+| _Screenshots 🖼️_     | ![image](Assets/SS.png)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| \*Getting Started 🚀 | 1. \*_Clone the repository:_ `https://github.com/Andatax/note-taker` <br> 2. _Navigate to the directory:_ `cd NoteTaker` <br> 3. _Open the index.html file in your preferred web browser._                                                                                                                                                                                                                                                 |
+| Deployed app         | (Provide the link to your deployed application, if applicable) <br>                                                                                                                                                                                                                                                                                                                                                                        |
+| _Usage Instructions_ | 1. Open the Note Taker application. <br> 2. Click on the "Notes" link on the landing page. <br> 3. Enter a new note title and note text in the right-hand column. <br> 4. Click the "Save Note" button to save your note. <br> 5. To view or edit an existing note, click on the note in the left-hand column. <br> 6. Use the "New Note" button in the navigation to create a new note after viewing an existing one.                     |
+| _License 📜_         | This project is licensed under the MIT License.                                                                                                                                                                                                                                                                                                                                                                                            |
+
+## Technology Used
+
+- _HTML and CSS:_ For the design and layout of the application.
+
+- _JavaScript (JS):_ For the functionality and interactivity of the application.
+
+- _Event Handling:_ JavaScript is used to handle user interactions, such as button clicks.
+
+- _Responsive Design:_ CSS is employed to create a responsive layout, ensuring a consistent and user-friendly experience across various devices and screen sizes.
